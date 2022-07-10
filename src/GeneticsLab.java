@@ -144,51 +144,7 @@ public class GeneticsLab
     public void buttonPressed()
     {
         
-    	
-//    	String inp = input.getText();
-//    	inp = inp.toUpperCase();
-//    	String output = "";
-//    	
-//    	int numA = 0;
-//    	int numC = 0;
-//    	int numG = 0;		
-//    	int numT = 0;
-//    	
-//    	for ( int i = 0 ; i< inp.length(); i ++ ) {
-//    		if ( inp.charAt(i) == 'A' || inp.charAt(i) == 'C' || inp.charAt(i) == 'G' || inp.charAt(i) == 'T') {
-//    				if ( inp.charAt(i)=='A' ) {
-//    					numA++;
-//    					output = output + 'T';
-//    				}
-//    				
-//    				if ( inp.charAt(i) == 'C') {
-//    					numC++;
-//    					output = output + 'G';
-//    				}
-//    				
-//    				if ( inp.charAt(i) == 'G') {
-//    					numG++;
-//    					output =output + 'C';
-//    				}
-//    				if (inp.charAt(i)=='T') {
-//    					numT++;
-//    					output = output + 'A';
-//    				}
-//    		
-//    			
-//    			compOutput.setText(output);	
-//    			aOut.setText("" + numA);
-//    			cOut.setText("" + numC);
-//    			tOut.setText("" + numT);
-//    			gOut.setText("" + numG);
-//    			
-//    			
-//    		}
-//    		else {
-//    			output = " Error";
-//    			compOutput.setText(output);
-//    		}
-//    	}
+
     	
     	String inp = input.getText();
     	inp = inp.toUpperCase();
